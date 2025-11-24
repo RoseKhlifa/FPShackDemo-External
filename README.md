@@ -29,14 +29,6 @@
 [![Watch the video](https://github.com/RoseKhlifa/FPShackDemo-External/blob/main/demo.png)](https://www.bilibili.com/video/BV1QGUGBkEh3/?share_source=copy_web&vd_source=513961c2c81743a6c3ebe8f70e292ca8)
 
 > 视频演示内容：ESP、自瞄、雷达、预警等功能展示
-### 🖼 效果预览
-
-> **展示项目主要 UI & ESP 样式**
-
-![Demo Preview](https://github.com/RoseKhlifa/FPShackDemo-External/blob/main/demo.png)
-
----
-
 ### 📌 技术栈
 
 - C++17
